@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lookforreal.github.io</id>
-    <title>实不识时务</title>
-    <updated>2021-12-31T07:19:48.080Z</updated>
+    <title>宁曾相识</title>
+    <updated>2021-12-31T07:27:36.905Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lookforreal.github.io"/>
     <link rel="self" href="https://lookforreal.github.io/atom.xml"/>
     <subtitle>怕什么真理无穷，进一寸有一寸的欢喜。</subtitle>
     <logo>https://lookforreal.github.io/images/avatar.png</logo>
     <icon>https://lookforreal.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, 实不识时务</rights>
+    <rights>All rights reserved 2021, 宁曾相识</rights>
     <entry>
-        <title type="html"><![CDATA[宁不知吾]]></title>
+        <title type="html"><![CDATA[实不识时务]]></title>
         <id>https://lookforreal.github.io/post/ning-bu-zhi-wu/</id>
         <link href="https://lookforreal.github.io/post/ning-bu-zhi-wu/">
         </link>
